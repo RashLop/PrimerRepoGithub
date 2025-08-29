@@ -1,4 +1,4 @@
-Hola Git, como estas?
+Hola Daniel, como estas?
 Un gusto conocerte 
-Muchas Gracias 
+Muchas gracias Daniel
 Adios 
